@@ -4,7 +4,7 @@ jasmine-async-errors
 Jasmine-oriented domain wrapper to catch those nasty asynchronous errors in your tests
 
 ```
-it = require('./index.js').wrap(it);
+it = require('jasmine-async-errors').wrap(it);
 
 // now, write your tests as usual
 describe('asynchronous jasmine errors', function() {
