@@ -1,6 +1,6 @@
 {
   "name": "jasmine-async-errors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Jasmine-oriented domain wrapper to catch those nasty asynchronous errors in your tests",
   "main": "index.js",
   "keywords": [
