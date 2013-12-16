@@ -28,5 +28,4 @@ describe('asynchronous jasmine errors', function() {
   });
 });
 
-
-``
+```
