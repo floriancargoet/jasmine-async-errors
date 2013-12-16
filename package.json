@@ -1,0 +1,23 @@
+{
+  "name": "jasmine-async-errors",
+  "version": "0.0.1",
+  "description": "Jasmine-oriented domain wrapper to catch those nasty asynchronous errors in your tests",
+  "main": "index.js",
+  "keywords": [
+    "jasmine",
+    "domain",
+    "trycatch",
+    "tests",
+    "asynchronous",
+    "errors"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/floriancargoet/jasmine-async-errors.git"
+  },
+  "author": "Florian Cargoët",
+  "license": "MIT",
+  "dependencies": {
+    "trycatch": "~1.0.5"
+  }
+}
